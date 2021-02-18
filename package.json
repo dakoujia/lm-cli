@@ -10,7 +10,7 @@
     "lm-cli": "index.js"
   },
   "keywords": ["lm"],
-  "author": "lm",
+  "author": "dakoujia",
   "license": "ISC",
   "dependencies": {
     "child_process": "^1.0.2",
