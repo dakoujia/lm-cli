@@ -1,7 +1,7 @@
 {
-  "name": "lm-cli",
+  "name": "lm2",
   "version": "1.0.0",
-  "description": "lm-cli",
+  "description": "a simple cli",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,8 +9,8 @@
   "bin": {
     "lm-cli": "index.js"
   },
-  "keywords": ["lm-cli"],
-  "author": "bobee",
+  "keywords": ["lm"],
+  "author": "lm",
   "license": "ISC",
   "dependencies": {
     "child_process": "^1.0.2",
