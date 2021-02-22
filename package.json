@@ -7,9 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "lm-cli": "index.js"
+    "lm2": "index.js"
   },
-  "keywords": ["lm"],
+  "keywords": ["lm2"],
   "author": "dakoujia",
   "license": "ISC",
   "dependencies": {
